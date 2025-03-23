@@ -1,2 +1,2 @@
-version: 1.0
+version: 1.4
 update_url: https://upd.com
