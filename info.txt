@@ -1,2 +1,2 @@
-version: 1.0
-update_url: https://sitetest.com
+version: 1.1
+update_url: https://forums.cockos.com/showthread.php?p=2788073
