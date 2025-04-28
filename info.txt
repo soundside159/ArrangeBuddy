@@ -1,2 +1,2 @@
 version: 1.0
-update_url: https://forums.cockos.com/showthread.php?p=2788073
+update_url: https://forum.cockos.com/showthread.php?p=2862896#post2862896
